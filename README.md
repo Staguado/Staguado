@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Santiago.
+- 👀 I’m interested in Genomics, Biological Dynamical Systems, Statistics, Probability, Finances, and Chemical Engineering.
+- 🌱 I’m currently learning Biological Dynamical System Visualization.
+- 💞️ I’m looking to collaborate on research.
+- 📫  staguado1@gmail.com
